@@ -1,4 +1,5 @@
 # E-Commerce-Customer-Analytics-Dashboard-Using-PowerBi
+<img width="1189" height="664" alt="Project" src="https://github.com/user-attachments/assets/2a101ce6-a403-4075-897b-f399a3895fb2" />
 
 ## Project Overview
 
